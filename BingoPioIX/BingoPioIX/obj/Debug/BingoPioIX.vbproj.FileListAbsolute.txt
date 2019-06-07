@@ -10,3 +10,15 @@ C:\Users\Alumno\Source\Repos\PioIX\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\
 C:\Users\Alumno\Source\Repos\PioIX\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.exe
 C:\Users\Alumno\Source\Repos\PioIX\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.xml
 C:\Users\Alumno\Source\Repos\PioIX\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.pdb
+C:\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\bin\Debug\BingoPioIX.exe.config
+C:\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\bin\Debug\BingoPioIX.exe
+C:\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\bin\Debug\BingoPioIX.pdb
+C:\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\bin\Debug\BingoPioIX.xml
+C:\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.vbprojResolveAssemblyReference.cache
+C:\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.bingo.resources
+C:\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.Resources.resources
+C:\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.vbproj.GenerateResource.Cache
+C:\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.vbproj.CoreCompileInputs.cache
+C:\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.exe
+C:\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.xml
+C:\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.pdb
