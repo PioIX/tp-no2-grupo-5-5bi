@@ -1,0 +1,1 @@
+Esta re buena esta app, cuando cambias de branch hasta con la carpeta abierta cambian los archivos dentro de esta dependiendo de que archivos haya en que branch. Es re loco, onda no se si cuando cambio de branch el archivo sigue existiendo en mi máquina o que. Estoy reloco.
