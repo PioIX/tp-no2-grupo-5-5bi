@@ -1,4 +1,4 @@
-   'Azar de 0 a 90
+'Aca esta el Azar de 0 a 90, faltaria conectarlo con los botones
 Private Sub btnRandom_Click(sender As Object, e As EventArgs) Handles btnRandom.Click
     Dim numAleatorio As New Random()
     Dim valorAleatorio As Integer = numAleatorio.Next(0, 90)
