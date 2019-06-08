@@ -9,7 +9,7 @@
                 boton.Text = a + 1
                 boton.Location = New Point(i * 60, j * 60)
                 botones.Add(boton)
-                boton.Enabled = False
+                boton.Enabled = True
                 boton.Height = 60
                 boton.Width = 60
                 boton.Font = New Font("Comic Sans MS", 20, FontStyle.Bold)
@@ -17,5 +17,11 @@
                 Me.Controls.AddRange(botones.ToArray())
             Next
         Next
+    End Sub
+    'Azar de 0 a 90
+    Private Sub btnRandom_Click(sender As Object, e As EventArgs) Handles btnRandom.Click
+        Dim numAleatorio As New Random()
+        Dim valorAleatorio As Integer = numAleatorio.Next(0, 90)
+        txtNumero.Text = valorAleatorio
     End Sub
 End Class

@@ -1847,7 +1847,7 @@ Begin VB.Form Frm_Number
       EndProperty
       Height          =   825
       Index           =   1
-      Left            =   75
+      Left            =   120
       TabIndex        =   0
       Top             =   900
       Width           =   1050
@@ -1868,7 +1868,7 @@ End Sub
 
 Private Sub Form_KeyPress(KeyAscii As Integer)
     'al tocar una letra me fijo que toque y actuo en ocnsecuencia
-    cartel = False ' salgo del cartel sin importar que letra sea ( algo asi como aprete cualquier tecla para sacar elñ cartel)
+    cartel = False ' salgo del cartel sin importar que letra sea ( algo asi como aprete cualquier tecla para sacar el cartel)
     Select Case (KeyAscii)
     Case 27  'esc cancelo funcion o salgo programa
         If borro <> True Then
