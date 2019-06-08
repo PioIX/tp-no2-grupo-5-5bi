@@ -22,3 +22,7 @@ C:\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.vbproj.CoreComp
 C:\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.exe
 C:\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.xml
 C:\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.pdb
+C:\Users\Matias\Documents\GitHub\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\bin\Debug\BingoPioIX.exe.config
+C:\Users\Matias\Documents\GitHub\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.exe
+C:\Users\Matias\Documents\GitHub\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.xml
+C:\Users\Matias\Documents\GitHub\tp-no2-grupo-5-5bi\BingoPioIX\BingoPioIX\obj\Debug\BingoPioIX.pdb
